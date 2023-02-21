@@ -1,4 +1,4 @@
-# Cadastro de games
+# Sistema de cadastro de jogos
 
 
 
