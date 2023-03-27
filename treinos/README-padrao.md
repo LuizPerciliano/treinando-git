@@ -60,7 +60,7 @@ pode ser apresentado funcionalidade com imagem ou gif tbm
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Luiz Perciliano</sub>](https://github.com/LuizPerciliano) | |
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/4924928?s=96&v=4" width=115><br><sub>Luiz Perciliano</sub>](https://github.com/LuizPerciliano) | |
 | :---: | :---: | :---: |
 
 
