@@ -7,16 +7,19 @@
 # Tópicos
 
 # Descrição do Projeto
-> Link rápido de ajuda para comandos do dia-a-dia 
+> Link rápido de ajuda para comandos do dia-a-dia . Este projeto é uma iniciativa e composição de diversos cursos, vídeo aulas, tutoriais, etc.
 
 # Status do Projeto
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/status-em%20desenvolvimento-green">
 </p>
 
 # Comando úteis
 
+```
+git rm -r --cached .
+``` 
 
 # Começando com repositório local e depois subindo atualizações para o repositório remoto
 Passo a passo na sequência para ter um projeto versionado localmente, e na nuvem no GitHub. Recomendável criar uma pasta de trabalho para cada projeto. 
@@ -25,7 +28,9 @@ Passo a passo na sequência para ter um projeto versionado localmente, e na nuve
 1. Abrir um terminal ou abrir sua IDE preferida do diretório criado
 1. Iniciar o versionamento do projeto e definindo a branch main como padrão
 
-    ```git init -b main```
+    ```
+    git init -b main
+    ```
 
 1. Verificar o status do repsitório
 
@@ -34,7 +39,9 @@ Passo a passo na sequência para ter um projeto versionado localmente, e na nuve
 1. Ir no [GitHub]() e criar um repositório para esse projeto. No site, selecione New, dê um nome, deixe público, selecione para adicionar o arquivo README, escolha um template do arquivo .gitignore se necessário, escolha a licençã MIT License e selecione em Criar repositório
 1. Apósa criado, é necessário definir no repositório local, o repositório remoto recém criado, ou seja, definir a origem remota. Pode ser com os protocolos https ou ssh. Para usar o SSH que é o recomendado, é necessário criar as chaves locais e colocá-la no GitHub
 
-    ```git remote add origin git@github.com:LuizPerciliano/Produtividade-com-Office-365.git```
+    ```git
+    git remote add origin git@github.com:LuizPerciliano/Produtividade-com-Office-365.git
+    ```
 
 1. Antes de enviar algo do repositório local para o remoto, primeiramente, é necessário sincronizar o local com o comando
     
@@ -48,7 +55,9 @@ Passo a passo na sequência para ter um projeto versionado localmente, e na nuve
 
     ```git status```
 
-    ```git commit -m “testando a atualizando repositório com o readme”```
+    ```
+    git commit -m “testando a atualizando repositório com o readme”
+    ```
 
     ```git status```
 
