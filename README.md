@@ -79,7 +79,6 @@ Passo a passo na sequência para ter um projeto versionado localmente, e na nuve
 - `HTML`
 
 # Autores
-# Autores
 
 |[<img src="https://avatars.githubusercontent.com/u/4924928?s=96&v=4" width=115><br><sub>Luiz Perciliano</sub>](https://github.com/LuizPerciliano) |
 | :---: | 
