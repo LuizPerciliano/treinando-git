@@ -4,10 +4,14 @@
 
 ou
 
-![descrição da imagem](img/logo-git.jpg)
+![descrição da imagem](/img/logo-git.jpg)
 
 # Tópicos, criar pelo próprio readme
 O GitHub gera automaticamente um índice para arquivos README, tendo como base os títulos da seção. Para visualizá-lo, selecione o ícone de menu no canto superior esquerdo do arquivo.
+
+ou
+
+[Tópicos](#tópicos-criar-pelo-próprio-readme)
 
 # Descrição do Projeto
 > Papapapa
@@ -24,6 +28,19 @@ ou
 </p>
 
 ou
+
+[Linkedin Perci](https://www.linkedin.com/in/luiz-perciliano/)
+
+[Linkedin Perci 2][lp]
+
+ou link com atalho abaixo
+
+
+[lp]: https://www.linkedin.com/in/luiz-perciliano/ "Linkedin do Perci"
+
+
+[comentário o link abaixo pode ficar]: #
+
 
 > :construction: Projeto em construção :construction:
 
@@ -51,10 +68,11 @@ pode ser apresentado funcionalidade com imagem ou gif tbm
 **Apresente as instruções necessárias para abrir e executar o projeto**
 
 > Você pode acessar os arquivos do projeto clicando aqui.
-
+>
+>> Block
 
 # ✔️Técnicas e tecnologias utilizadas
-- `Java 8`
+- ``Java 8``
 - `InteliJ IDEA`
 - `Paradigma de orientação a objetos`
 
@@ -74,3 +92,4 @@ Licença `MIT licensed`.
 - link para emojis: https://gist.github.com/rxaviers/7360908
 - site para hospedar imagens https://pasteboard.co
 - criar meu próprio octo foto / imagem https://myoctocat.com/
+- gravador de tela para gerar tutorial e tals https://www.acethinker.com.br/gravador-de-tela-gratis-online 
